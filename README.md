@@ -1,6 +1,6 @@
 # GitHub Research
 
-AI Skill — 多维度调研 GitHub 项目，评估代码质量、Issue 处理、Commit 规范、贡献者水平、Vibe Coding 程度，输出结构化 Markdown 报告。
+Skill — 多维度调研 GitHub 项目，评估代码质量、Issue 处理、Commit 规范、贡献者水平、Vibe Coding 程度，输出结构化 Markdown 报告。
 
 ## 项目结构
 
